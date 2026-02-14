@@ -7,3 +7,4 @@ I have created all assignments here
 4 . Assignment Related to File handleing I have done in the file named "file_handling_assignment.ipynb"
 
 5. Assignment Related to Module and Packages I have Done in the folder named - "module_assignment"
+6. Exception Handling Task Completed in the folder name Exception_handling folder inside this folder name file name is exception_handling.ipynb
