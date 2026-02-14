@@ -1,0 +1,6 @@
+SL No. | Product Name | Original price | Discounted_price
+1 | Mouse | 500 | 450.0
+2 | Keyboard | 800 | 720.0
+3 | Monitor | 700 | 630.0
+4 | Pendrive | 400 | 360.0
+5 | Camera | 5000 | 4500.0
