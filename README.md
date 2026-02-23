@@ -9,3 +9,5 @@ I have created all assignments here
 5. Assignment Related to Module and Packages I have Done in the folder named - "module_assignment"
 6. Exception Handling Task Completed in the folder name Exception_handling folder inside this folder name file name is exception_handling.ipynb
 7. I have Created Object Oriented Programing Asignment inside the folder named OOP Assignment there is the file OOP_assignment.ipynb 
+8. I have created Streamlit assignment inside streamlit_assignment folder there I have three files names are app_basic.py , app_discount.py , app_dashboard.py
+9. I have created Assignment related to Numpy inside the folder Numpy Assignment where having a file named "numpy_assignment.ipynb"
